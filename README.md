@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maxim
-- 👀 I’m interested in backend software.
+- 👀 Backend developer.
 - 📫 Email: shek.maxim@qubeek.io
 
 <!---
